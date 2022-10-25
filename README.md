@@ -13,7 +13,7 @@ A social network API server that offers CRUD operations for users, thoughts, rea
 https://github.com/abdallahamdy/social-network-api
 
 ## Video tutorial
-
+https://watch.screencastify.com/v/XMnMJSQwOkNW1PbEnvoU
 
 ## Author:
 Abdalla Hamdy% 
